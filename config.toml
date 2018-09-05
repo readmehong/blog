@@ -1,0 +1,5 @@
+baseurl = "https://readmehong.blog.io/"
+#languageCode = "en-us"
+languageCode = "ko-kr"
+title = "My New Hugo Site"
+
