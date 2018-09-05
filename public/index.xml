@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>https://readmehong.blog.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Sep 2018 15:13:56 +0900</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://readmehong.blog.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test1</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/test1/</link>
+      <link>https://readmehong.blog.io/post/test1/</link>
       <pubDate>Wed, 05 Sep 2018 15:13:56 +0900</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/test1/</guid>
+      <guid>https://readmehong.blog.io/post/test1/</guid>
       <description>&lt;p&gt;다시 생성해본 테스트 파일&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>test</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/test/</link>
+      <link>https://readmehong.blog.io/post/test/</link>
       <pubDate>Wed, 05 Sep 2018 10:35:50 +0900</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/test/</guid>
+      <guid>https://readmehong.blog.io/post/test/</guid>
       <description>&lt;p&gt;test hugo server&lt;/p&gt;
 </description>
     </item>
