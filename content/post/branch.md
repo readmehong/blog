@@ -23,5 +23,11 @@ title = "branch comment"
 * git 서버 상 branch 삭제 방법
 	* git push origin --delete test
 
+* branch 의 머지 상태 확인.
+	* git branch --merged
+		* --> * 기호가 없는 브런치는 삭제해도 되는 브런치
+	* git branch --no-merged
+		* --> 목록에 보이는 브런치는 merge를 해야한다.(merge는 하지 않고 커밋은 담고 있는 브런치)
 
-
+* branch 강제 삭제
+	* git branch -D test
