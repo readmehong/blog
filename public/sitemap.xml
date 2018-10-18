@@ -2,19 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://readmehong.blog.io/</loc>
+    <loc>http://192.168.0.20:1313/</loc>
     <lastmod>2018-09-05T15:13:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://readmehong.blog.io/post/test1/</loc>
+    <loc>http://192.168.0.20:1313/post/test1/</loc>
     <lastmod>2018-09-05T15:13:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://readmehong.blog.io/post/test/</loc>
+    <loc>http://192.168.0.20:1313/post/test/</loc>
     <lastmod>2018-09-05T10:35:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.20:1313/post/branch/</loc>
   </url>
   
 </urlset>

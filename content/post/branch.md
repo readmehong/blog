@@ -31,3 +31,10 @@ title = "branch comment"
 
 * branch 강제 삭제
 	* git branch -D test
+
+
+* Rebase Merge 차이
+	* Rebase 의 경우는 브랜치의 변경사항을 순서대로 다른 브랜치에 적용하면서 합치고. Mergew의 경우는 두 브랜치의 최종결과만을 가지고 합친다. 
+	* --> 두가지 모두 최종 결과물은 동일 하지만, Rebase가 커밋 히스토리가 깔끔하다.
+	* 리모트 등 어딘가에 Push로 내보낸 커밋에 대해서는 절대 Rebaase 하지 말아야 한다.
+
