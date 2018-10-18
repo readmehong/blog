@@ -1,5 +1,11 @@
+<<<<<<< f7d7507e0fdae70858a0ee5de51aaccabf201911
 baseurl = "http://192.168.0.20:1313" 
 #languageCode = "en-us"
 languageCode = "ko-kr"
 title = "My New Hugo Site"
 
+=======
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+>>>>>>> test
