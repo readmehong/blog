@@ -1,4 +1,5 @@
-baseURL = "http://192.168.0.20:1313"
+#baseURL = "http://192.168.0.20:1313"
+baseURL = "https://readmehong.github.io"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "tale"
