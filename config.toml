@@ -13,7 +13,7 @@ disqusShortname = "comments by entering disqus shortname???"
 [Author]
  name = "readmehong"
  bio = "컨텐츠 밑에 보이는 글귀들 ."
- avatar = "img/600-377-max.png"
+ avatar = "img/avatar.png"
 
 [Params]
  subtitle = 'this area is Subtitle'
