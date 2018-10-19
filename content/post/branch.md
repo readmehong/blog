@@ -1,10 +1,16 @@
-+++
-date = "2018-10-02T10:35:50+09:00"
-title = "branch comment"
+---
+title: "branch comment"
+description: "description test"
+date: "2018-10-18"
+categories: 
+ - "categories test1"
+ - "cate test2"
 
-written = "TEST"
+tags:
+ - "tag1"
+ - "tag2"
 
-+++
+---
 
 * create branch 
 	* git branch test
