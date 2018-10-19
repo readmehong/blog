@@ -1,6 +1,8 @@
 +++
-date = "2018-10-0210:35:50+09:00"
+date = "2018-10-02T10:35:50+09:00"
 title = "branch comment"
+
+written = "TEST"
 
 +++
 

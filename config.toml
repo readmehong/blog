@@ -1,6 +1,17 @@
 #baseURL = "http://192.168.0.20:1313"
 #baseURL = "https://readmehong.github.io"
 #languageCode = "en-us"
-title = "readmehong hugo blog test"
-theme = "tale"
+
+baseurl = "/"
+theme = "mainroad"
+languageCode = "UTF-8"
+paginate = "10"
+disqusShortname = "comments by entering disqus shortname???"
+googleAnalytics = "google analytics by entering tracking id"
+
+[Author]
+ name = "readmehong"
+ bio = "bio??? what??"
+ avatar = "img/avatar.png"
+
 
