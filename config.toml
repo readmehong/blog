@@ -3,15 +3,33 @@
 #languageCode = "en-us"
 
 baseurl = "/"
+title = "this is TITLE"
 theme = "mainroad"
 languageCode = "UTF-8"
 paginate = "10"
 disqusShortname = "comments by entering disqus shortname???"
-googleAnalytics = "google analytics by entering tracking id"
+#googleAnalytics = "google analytics by entering tracking id"
 
 [Author]
  name = "readmehong"
- bio = "bio??? what??"
- avatar = "img/avatar.png"
+ bio = "컨텐츠 밑에 보이는 글귀들 ."
+ avatar = "img/600-377-max.png"
 
+[Params]
+ subtitle = 'this area is Subtitle'
+ description = 'param description'
+ opengraph = true
+ twitter_cards = true
+ readmore = false
+ authorbox = true
+ postSections = ["post"]
 
+[Params.sidebar]
+ home = "right"
+ list = "right"
+ single = "right"
+ widgets = ["search", "recent", "categories", "taglist"]
+
+[params.widgets]
+ recent_num = 5
+ tags_counter = false
