@@ -3,11 +3,11 @@ title: "Nextcloud 업데이트"
 description: "desc"
 date: 2018-10-22T15:57:14+09:00
 categories:
- - "nas"
- - "nextcloud"
+ - "NAS"
 
 tags:
  - "NAS"
+ - "NextCloud"
 ---
 
 
