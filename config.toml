@@ -3,7 +3,7 @@
 #languageCode = "en-us"
 
 baseurl = "/"
-title = "this is TITLE"
+title = "READMEHONG BLOG"
 theme = "mainroad"
 languageCode = "UTF-8"
 paginate = "10"
@@ -12,11 +12,11 @@ disqusShortname = "comments by entering disqus shortname???"
 
 [Author]
  name = "readmehong"
- bio = "컨텐츠 밑에 보이는 글귀들 ."
+ bio = "readmehong@gmail.com"
  avatar = "img/avatar.png"
 
 [Params]
- subtitle = 'this area is Subtitle'
+ subtitle = '##'
  description = 'param description'
  opengraph = true
  twitter_cards = true
