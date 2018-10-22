@@ -6,8 +6,7 @@ categories:
  - "nextcloud"
 
 tags:
- - "nas"
- - "nextcloud"
+ - "NAS"
 ---
 
 
