@@ -12,7 +12,7 @@ tags:
 ---
 
 
-### Hugo blog `<head></head>` 내용 추가 방법 
+### Hugo blog `<head></head>` code 추가 
 Google AdSense 코드 추가(theme : Mainroad)  
 `/themes/mainroad/layouts/_default/baseof.html` 수정  
 baseof.html은 .html 파일을 만드는 기본틀head 에 google adsense 코드 삽입
