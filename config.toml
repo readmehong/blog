@@ -8,7 +8,7 @@ theme = "mainroad"
 languageCode = "UTF-8"
 paginate = "10"
 disqusShortname = "comments by entering disqus shortname???"
-#googleAnalytics = "google analytics by entering tracking id"
+googleAnalytics = "UA-127985349-1"
 
 [Author]
  name = "readmehong"
