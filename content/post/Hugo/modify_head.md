@@ -14,9 +14,9 @@ tags:
 
 ### Hugo blog `<head></head>` 내용 추가 방법 
 
-* head 에Google AdSense 코드 추가(theme : Mainroad)
-* `/themes/mainroad/layouts/_default/baseof.html` 수정
- * baseof.html은 .html 파일을 만드는 기본틀.head에 google adsense 코드 삽입
+head 에Google AdSense 코드 추가(theme : Mainroad)
+`/themes/mainroad/layouts/_default/baseof.html` 수정
+baseof.html은 .html 파일을 만드는 기본틀.head에 google adsense 코드 삽입
 
 ```
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
