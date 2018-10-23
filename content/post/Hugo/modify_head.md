@@ -1,5 +1,5 @@
 ---
-title: "Modify head"
+title: "Hugo Mainroad 테마 헤드 수정"
 date: 2018-10-23T15:16:07+09:00
 
 categories: 
