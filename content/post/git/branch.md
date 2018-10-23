@@ -3,9 +3,8 @@ title: "branch comment"
 description: "description test"
 date: "2018-10-18"
 categories: 
- - "categories test1"
- - "cate test2"
-
+ - "git"
+ - "branch"
 tags:
  - "tag1"
  - "tag2"
