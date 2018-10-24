@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>String on READMEHONG BLOG</title>
+    <link>/tags/string/</link>
+    <description>Recent content in String on READMEHONG BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    <lastBuildDate>Wed, 24 Oct 2018 15:27:17 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/string/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Replace_string</title>
+      <link>/post/linux/replace_string/</link>
+      <pubDate>Wed, 24 Oct 2018 15:27:17 +0900</pubDate>
+      
+      <guid>/post/linux/replace_string/</guid>
+      <description>Linux(vi/vim) 문자열 치환, 바꾸기 - Replace String  :%s/선택문자/결과문자 - 모든 문자를 바로 변경 :%s/선택문자/결과문자/c - y/n 을 통해 선택하여 변경 :%s/&amp;lt;선택문자&amp;gt;/결과문자 - 선택 문자에 정확하게 일치할 경우에만 변경 &amp;mdash;  Ex.1 - :%s/선택문자/결과문자 변경 전
+1 this is test. 2 test is test. 3 hello is good 4 nice day :%s/is/are  변경 후
+1 thare is test. 2 test are test. 3 hello are good 4 nice day  Ex.</description>
+    </item>
+    
+  </channel>
+</rss>
