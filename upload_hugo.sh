@@ -1,4 +1,4 @@
-find readmehong.github.io/ ! -name readmehong.github.io -and ! -name .git | xargs rm -rvf
+#find readmehong.github.io/ ! -name readmehong.github.io -and ! -name .git | xargs rm -rvf
 
 hugo -d readmehong.github.io/
 

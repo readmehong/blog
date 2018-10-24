@@ -8,6 +8,7 @@ categories:
 tags:
  - "firefox"
  - "port"
+
 ---
 
 #### Firefox 웹 브라우져 내 제한된 포트 해제
