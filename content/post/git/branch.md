@@ -2,12 +2,13 @@
 title: "branch comment"
 description: "description test"
 date: "2018-10-18"
+
 categories: 
  - "git"
- - "branch"
+
 tags:
- - "tag1"
- - "tag2"
+ - "git"
+ - "branch"
 
 ---
 
