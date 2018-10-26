@@ -53,8 +53,8 @@ tags:
 :%s/are/is/c
 ```
 
-아래와 같은 명령이 나오며 y : 변경, n : 넘어가기 를 통해 선택적 변경이 가능하다.
-`replace with is (y/n/a/q/l/^E/^Y)?'
+아래와 같은 명령이 나오며 y : 변경, n : 넘어가기 를 통해 선택적 변경이 가능하다.  
+`replace with is (y/n/a/q/l/^E/^Y)?`
 
 
 ---
