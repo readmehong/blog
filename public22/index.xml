@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>READMEHONG BLOG</title>
+    <link>/</link>
+    <description>Recent content on READMEHONG BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    <lastBuildDate>Mon, 22 Oct 2018 15:57:14 +0900</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nextcloud 업데이트</title>
+      <link>/post/nextcloud_update/</link>
+      <pubDate>Mon, 22 Oct 2018 15:57:14 +0900</pubDate>
+      
+      <guid>/post/nextcloud_update/</guid>
+      <description> nextcloud 업데이트시 유의 사항
+ 화면 - admin 항목으로 이동 후 업데이트를 누르게 되면 업데이트 진행함. 이후 다시 해당 도메인으로 이동하면, 인스턴스는 현재 점검중입니다. 라는 메세지가 나타남.  대처방법
+ /var/www/nextcloud/config/config.php  위 파일의 maintenance 옵션을 true &amp;ndash;&amp;gt; false 로 수정  다시 화면에서 새로고침하면 업데이트 진행 버튼이 나옴.   </description>
+    </item>
+    
+    <item>
+      <title>상단바1</title>
+      <link>/about/</link>
+      <pubDate>Fri, 19 Oct 2018 11:06:14 +0900</pubDate>
+      
+      <guid>/about/</guid>
+      <description>this is ABOUT TEST</description>
+    </item>
+    
+    <item>
+      <title> post_About</title>
+      <link>/post/post_about/</link>
+      <pubDate>Thu, 18 Oct 2018 18:07:37 +0900</pubDate>
+      
+      <guid>/post/post_about/</guid>
+      <description>POST this is About TEST TEST!!!</description>
+    </item>
+    
+    <item>
+      <title>branch comment</title>
+      <link>/post/branch/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/branch/</guid>
+      <description>create branch  git branch test  switch branch
+ git checkout test  수정한 브런치의 파일은 add 및 commit 를 하면 해당 브런치에 커미이 된다. (로컬에)
+ &amp;ndash;&amp;gt; git add * / git commit -m &amp;ldquo;test&amp;rdquo;  git branch 삭제 하는 방법(로컬에서)
+ git branch -d test  git branch 를 git 서버에 push 하는 방법.
+ git push origin test 해당 브런치가 git 서버에 나타나게 된다.  git 서버 상 branch 삭제 방법</description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>/post/test1/</link>
+      <pubDate>Wed, 05 Sep 2018 15:13:56 +0900</pubDate>
+      
+      <guid>/post/test1/</guid>
+      <description>다시 생성해본 테스트 파일</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/post/test/</link>
+      <pubDate>Wed, 05 Sep 2018 10:35:50 +0900</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description>test hugo server</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on READMEHONG BLOG</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on READMEHONG BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cate Test2</title>
+      <link>/categories/cate-test2/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cate-test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categories Test1</title>
+      <link>/categories/categories-test1/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/categories-test1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nas</title>
+      <link>/categories/nas/</link>
+      <pubDate>Mon, 22 Oct 2018 15:57:14 +0900</pubDate>
+      
+      <guid>/categories/nas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
